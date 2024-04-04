@@ -1,7 +1,6 @@
 # Portfolio
 
-login: Rosaly
-mdp : hello
+
 
 Lien back-office: https://rosalie-nicaud.alwaysdata.net/marble-portfolio/admin/projets/index.php
 
